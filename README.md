@@ -1,2 +1,2 @@
-# postgreSQL-
+# postgreSQL
 postgreSQL works
