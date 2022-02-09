@@ -1,1 +1,1 @@
-I will work with PostgreSQL at this repository. You can follow the steps if you want to learn. 
+I will work with PostgreSQL at this repository. You can follow the steps if you want to learn. The database I use is in this link [The database I use is in this link.]. You can download the .rar file in the link to your device and use it.
